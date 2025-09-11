@@ -1,0 +1,15 @@
+pydantic
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-openai
+langchain-groq
+langchain-huggingface
+arxiv
+wikipedia
+langgraph-cli[inmen]
+faiss-cpu
+streamlit
+tavily-python
